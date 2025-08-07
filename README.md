@@ -1,3 +1,10 @@
+![로고 이미지](assets/images/logo.jpg)
+
+![대표 이미지](assets/images/main-image.png)
+
+
+
+
 # 나의 첫 번째 e-book
 
 <div style="text-align: center; padding: 50px 0;">
